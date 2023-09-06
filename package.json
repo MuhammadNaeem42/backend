@@ -1,0 +1,19 @@
+{
+  "name": "my_portfolio_website",
+  "version": "1.0.0",
+  "description": "A dynamic and interactive portfolio website powered by Shuaib Khan, showcasing my skills, projects, and experiences as a web developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Shuaib Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^7.5.0",
+    "nodemon": "^3.0.1"
+  }
+}

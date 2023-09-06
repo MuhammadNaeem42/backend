@@ -1,0 +1,5 @@
+{
+    "scm.diffDecorationsIgnoreTrimWhitespace": "true",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true
+}
